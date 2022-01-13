@@ -45,7 +45,6 @@ router.delete('/:id', withAuth, async (req, res) => {
       where: {
         id: req.params.id
       }
-
     });
 
     if (affectedRows > 0) {
