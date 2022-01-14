@@ -1,7 +1,7 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![License Badge](https://img.shields.io/static/v1?label=License&message=GPL&color=purple&?style=plastic&link=https://choosealicense.com/licenses/gpl-3.0/)](https://choosealicense.com/licenses/gpl-3.0/)\r   ## Table of Contents\r   - [Description](#Description)\r   - [Installations](#Installations)\r   - [Usage](#Usage)\r   - [Tests](#Tests)\r   - [License](#License)\r   - [Questions](#Questions)\r   ## Description\r   Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,10 +21,12 @@
     "bcrypt": "^4.0.1",
     "connect-session-sequelize": "^6.1.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "express-handlebars": "^3.1.0",
     "express-session": "^1.17.0",
+    "handlebars": "^4.7.7",
     "mysql2": "^2.0.1",
     "sequelize": "^5.21.2"
-  }
+  },
+  "keywords": []
 }
