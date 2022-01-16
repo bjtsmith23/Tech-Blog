@@ -24,11 +24,11 @@ Your task this week is to build a CMS-style blog site similar to a Wordpress sit
   [![License Badge](https://img.shields.io/static/v1?label=License&message=GPL&color=purple&?style=plastic&link=https://choosealicense.com/licenses/gpl-3.0/)](https://choosealicense.com/licenses/gpl-3.0/)
   </br>
   This application uses GPL license. 
+
   ## Questions 
   If you have any questions or would like to contact me, you can [email](mailto:bjtsmith23@gmail.com) me
   or check out my [GitHub](https://github.com/bjtsmith23).
 
- ## Walkthrough Video of Application
-Link below for walkingthrough video!
+  ## Screenshot of Application
 
-https://drive.google.com/file/d/19UwNrAwDnU4cNdpyCaa6uGomG6etC8sy/view
+  ![Screenshot of Tech Blog](/images/screenshot.png)
